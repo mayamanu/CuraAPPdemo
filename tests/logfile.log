@@ -1,0 +1,77 @@
+2022-03-09 12:11:06,355 :INFO : test_login :logging in
+2022-03-09 13:19:17,514 :INFO : test_login :logging in
+2022-03-09 13:24:35,456 :INFO : test_login :logging in
+2022-03-09 13:26:56,407 :INFO : test_login :logging in
+2022-03-09 13:32:16,175 :INFO : test_login :logging in
+2022-03-09 13:37:05,271 :INFO : test_login :logging in
+2022-03-09 13:37:53,315 :INFO : test_login :logging in
+2022-03-09 13:38:16,036 :INFO : test_login :logging in
+2022-03-09 20:17:13,321 :INFO : test_login :logging in
+2022-03-09 22:20:40,311 :INFO : test_login :logging in
+2022-03-10 21:47:04,016 :INFO : test_appoinment :logging in
+2022-03-10 21:48:57,714 :INFO : test_appoinment :logging in
+2022-03-10 21:54:57,059 :INFO : test_appoinment :logging in
+2022-03-10 21:56:29,179 :INFO : test_appoinment :logging in
+2022-03-10 22:00:23,912 :INFO : test_appoinment :logging in
+2022-03-10 22:01:05,267 :INFO : test_appoinment :logging in
+2022-03-10 22:11:58,626 :INFO : test_login :logging in
+2022-03-10 22:12:24,845 :INFO : test_login :logging in
+2022-03-10 22:13:00,993 :INFO : test_login :logging in
+2022-03-10 22:13:26,269 :INFO : test_login :logging in
+2022-03-10 22:16:24,117 :INFO : test_appoinment :logging in
+2022-03-10 22:21:15,352 :INFO : test_appoinment :logging in
+2022-03-10 22:37:09,560 :INFO : test_appoinment :logging in
+2022-03-10 22:37:26,786 :INFO : test_appoinment :logging in
+2022-03-10 22:53:15,621 :INFO : test_appoinment :logging in
+2022-03-11 10:27:34,415 :INFO : test_appoinment :logging in
+2022-03-11 14:11:18,846 :INFO : test_appoinment :logging in
+2022-03-11 14:11:25,577 :INFO : test_login :logging in
+2022-03-11 14:14:13,471 :INFO : test_appoinment :logging in
+2022-03-11 14:14:20,187 :INFO : test_login :logging in
+2022-03-11 14:15:39,072 :INFO : test_appoinment :logging in
+2022-03-11 14:16:14,324 :INFO : test_appoinment :logging in
+2022-03-11 14:16:20,695 :INFO : test_login :logging in
+2022-03-11 14:40:03,828 :INFO : test_appoinment :logging in
+2022-03-11 14:40:10,830 :INFO : test_login :logging in
+2022-03-11 14:41:15,048 :INFO : test_appoinment :logging in
+2022-03-11 14:41:22,089 :INFO : test_login :logging in
+2022-03-11 14:56:27,522 :INFO : test_appoinment :logging in
+2022-03-11 14:56:34,323 :INFO : test_login :logging in
+2022-03-11 14:56:49,976 :INFO : test_appoinment :logging in
+2022-03-11 14:56:56,841 :INFO : test_login :logging in
+2022-03-11 16:40:39,840 :INFO : test_appoinment :Clicked on Menu
+2022-03-11 16:40:40,305 :INFO : test_appoinment :Clicked on Login
+2022-03-11 16:40:40,392 :INFO : test_appoinment :Entered Username
+2022-03-11 16:40:40,481 :INFO : test_appoinment :Entered Password
+2022-03-11 16:40:41,124 :INFO : test_appoinment :logging in
+2022-03-11 16:40:41,226 :INFO : test_appoinment :selecting facility
+2022-03-11 16:40:41,263 :INFO : test_appoinment :Apply for hospital readmission
+2022-03-11 16:40:41,307 :INFO : test_appoinment :choosing none
+2022-03-11 16:40:41,445 :INFO : test_appoinment :specifying visit date
+2022-03-11 16:40:41,558 :INFO : test_appoinment :Entering comment as follwup
+2022-03-11 16:40:41,952 :INFO : test_appoinment :Booking button clicked
+2022-03-11 16:40:42,052 :INFO : test_appoinment :confirmation page 
+2022-03-11 16:40:46,964 :INFO : test_login :clicked on Menu
+2022-03-11 16:40:47,419 :INFO : test_login :clicked on Login
+2022-03-11 16:40:47,500 :INFO : test_login :Entered Username
+2022-03-11 16:40:47,573 :INFO : test_login :Entered Password
+2022-03-11 16:40:48,275 :INFO : test_login :Loggin in
+2022-03-11 16:40:48,368 :INFO : test_login :Logged into booking page
+2022-03-11 16:41:29,687 :INFO : test_appoinment :Clicked on Menu
+2022-03-11 16:41:30,138 :INFO : test_appoinment :Clicked on Login
+2022-03-11 16:41:30,222 :INFO : test_appoinment :Entered Username
+2022-03-11 16:41:30,305 :INFO : test_appoinment :Entered Password
+2022-03-11 16:41:30,957 :INFO : test_appoinment :logging in
+2022-03-11 16:41:31,069 :INFO : test_appoinment :selecting facility
+2022-03-11 16:41:31,112 :INFO : test_appoinment :Apply for hospital readmission
+2022-03-11 16:41:31,175 :INFO : test_appoinment :choosing none
+2022-03-11 16:41:31,324 :INFO : test_appoinment :specifying visit date
+2022-03-11 16:41:31,422 :INFO : test_appoinment :Entering comment as follwup
+2022-03-11 16:41:31,866 :INFO : test_appoinment :Booking button clicked
+2022-03-11 16:41:31,942 :INFO : test_appoinment :confirmation page 
+2022-03-11 16:41:37,202 :INFO : test_login :clicked on Menu
+2022-03-11 16:41:37,701 :INFO : test_login :clicked on Login
+2022-03-11 16:41:37,775 :INFO : test_login :Entered Username
+2022-03-11 16:41:37,848 :INFO : test_login :Entered Password
+2022-03-11 16:41:38,545 :INFO : test_login :Loggin in
+2022-03-11 16:41:38,639 :INFO : test_login :Logged into booking page
